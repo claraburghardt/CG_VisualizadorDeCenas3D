@@ -1,0 +1,4 @@
+object 1 C:\\Users\\I555002\\Source\\Repos\\VisualizadorDeCenas3D\\Modelos3D\\aratwearingabackpack\\obj\\model.obj C:\\Users\\I555002\\Source\\Repos\\VisualizadorDeCenas3D\\Modelos3D\\aratwearingabackpack\\textures\\texture_1.jpeg 0 0 0 0 0 0 1
+object 2 C:\\Users\\I555002\\Source\\Repos\\VisualizadorDeCenas3D\\Modelos3D\\Planetas\\planeta.obj C:\\Users\\I555002\\Source\\Repos\\VisualizadorDeCenas3D\\Modelos3D\\Planetas\\Terra.jpg 0 0 0 0 0 0 0.3
+light -2 10 3 1 1 1
+camera 0 0 3 0 0 -1 0 1 0
