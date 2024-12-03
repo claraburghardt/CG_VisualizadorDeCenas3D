@@ -19,7 +19,6 @@ Abaixo estão as instruções de controle para interação com o visualizador de
 Seleção de Objetos:
 - Pressione KEY_1 para selecionar o Objeto 1.
 - Pressione KEY_2 para selecionar o Objeto 2.
-- Pressione KEY_3 para selecionar o Objeto 3.
 
 Rotação do Objeto Selecionado:
 - Pressione KEY_X para rotacionar o objeto selecionado no eixo X.
